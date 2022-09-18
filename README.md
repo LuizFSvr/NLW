@@ -1,4 +1,4 @@
-![preview](/NLW/.github/preview.png)
+![preview](./.github/preview.png)
 
 # NLW eSports
 > Trilha explore
